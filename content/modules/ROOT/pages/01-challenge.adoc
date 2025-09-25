@@ -1,0 +1,10 @@
+# Process Inspection There is a process you’ll care about if you want
+your `+flag+`.
+
+See if you can figure out what it’s doing, and maybe you’ll find what
+you’re looking for.
+
+____
+Note: There is no second step to this challenge, You will find a code in
+the process of performing the task.
+____
